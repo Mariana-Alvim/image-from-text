@@ -1,8 +1,9 @@
 # Text-to-Image Generation with DALL·E-mini
 This project concerns the process of generating images from text using the DALL·E-mini model in Python. <br>
 <div align="center">
-  <img src="https://github.com/Mariana-Alvim/image-from-text/assets/104532249/0bc52e72-c56c-4eb1-abd6-a07628e1c696" alt="Descrição da imagem" width="40%">
+  <img src="https://github.com/Mariana-Alvim/image-from-text/assets/104532249/b038c556-5bc0-4ed7-8572-dc5babdc5fca" alt="Descrição da imagem" width="40%">
 </div>
+
 
 ## Overview
 
